@@ -1,19 +1,19 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: Qiefudiao | A theme for Jekyll
+email: 207739568@qq.com
+description: An animal.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+url: "https://qiefudiao.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: Qiefudiao
 user_description: Some text about you.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+github_username: Qiefudiao
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
