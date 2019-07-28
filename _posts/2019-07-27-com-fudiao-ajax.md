@@ -10,13 +10,13 @@ tags:
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: JSP结课项目中遇到的Ajax问题
 ---
-##Ajax向后台传数据
-###1.值类型为Formdata
+## Ajax向后台传数据
+### 1.值类型为Formdata
 html代码:
 ```
 //ectype编码类型，ajax上传文件时可以不用设置;multiple允许上传多个文件
 <form style="display:none;" action="" enctype="multipart/form-data" method="post"  id="fileupload">
-		<input type="file" multiple  name="file1" id="file">
+	<input type="file" multiple  name="file1" id="file">
 </form>
 ```
 script代码:
