@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "HashMap"
+title: "servlet接受ajax传值"
 date: Jul 19, 2019 9:21 PM
 image: 'http://i1.fuimg.com/693111/c0ff6b9d25b28bf1.jpg'
-description: HashMap基本理解
+description: servlet
 tags:
 - java
 - data structure
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: .
+introduction: JSP节课项目遇到的问题
 ---
 #java后台接收一个formdata
 需要注意，ajax传JSON时设置的content-type 如果是`application/json`或者`text/json`时，JAVA中`request.getParameter("")`是接收不到数据的,因为此时post的数据会已流的形式传输，可以使用`request.getInputStream()`来获得流,
