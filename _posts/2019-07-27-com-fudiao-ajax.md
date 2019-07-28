@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Ajax"
+title: "Ajax传值问题"
 date: Jul 27, 2019 12:43 PM
 image: 'http://i1.fuimg.com/693111/c0ff6b9d25b28bf1.jpg'
-description: JSP结课项目中遇到的Ajax问题
+description: ajax
 tags:
 - java
 - Ajax
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: .
+introduction: JSP结课项目中遇到的Ajax问题
 ---
 ##Ajax向后台传数据
 ###1.值类型为Formdata
