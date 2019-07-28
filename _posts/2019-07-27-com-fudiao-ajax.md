@@ -2,7 +2,7 @@
 layout: post
 title: "Ajax传值问题"
 date: Jul 27, 2019 12:43 PM
-image: 'http://i1.fuimg.com/693111/c0ff6b9d25b28bf1.jpg'
+image: 'http://i2.tiimg.com/693111/ede715271661cccc.jpg'
 description: ajax
 tags:
 - java
