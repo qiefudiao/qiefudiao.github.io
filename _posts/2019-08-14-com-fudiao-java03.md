@@ -2,23 +2,23 @@
 
 layout: post
 
-title: "==和equals区别"
+title: "java基础知识点"
 
-date: Jul 19, 2019 9:21 PM
+date: Aug 14, 2019 10:28 PM
 
 image: 'http://i2.tiimg.com/693111/649dd4dae3c2974b.jpg'
 
-description: servlet
+description: java
 
 tags:
 
 - java
 
-- data structure
+
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-introduction: JSP节课项目遇到的问题
+introduction: java面试题知识总结
 
 ---
 
