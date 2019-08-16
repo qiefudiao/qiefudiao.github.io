@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "个人规划"
+title: "java学习方向"
 date: Jul 7, 2019 2:38 PM
-image: 'http://i1.fuimg.com/693111/c0ff6b9d25b28bf1.jpg'
-description: 总结以前，规划未来
+image:'http://i2.tiimg.com/693111/c7500cb9a65bf00c.jpg'
+description: 知乎
 tags:
 - myself
 - tutorial
